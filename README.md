@@ -14,7 +14,8 @@ Efficient ML for edge devices, data pipelines, field-ready tools for health and 
 
 ## Formation
 
-- Machine Learning Specialization — DeepLearning.AI / Stanford (Andrew Ng) — In progress (1/3 courses), 2026
+- Supervised Machine Learning: Regression and Classification — DeepLearning.AI / Stanford (A. Ng), Coursera — Completed Oct 2026 — [Certificate](https://www.coursera.org/account/accomplishments/records/EUPQ0SN3OL8V)
+- Machine Learning Specialization — In progress (1/3 courses), 2026
 - English — Fluent (official certification planned early 2027)
 
 ## Awards
