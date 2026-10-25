@@ -10,9 +10,8 @@ Efficient ML for edge devices, data pipelines, field-ready tools for health and 
 
 - [`neurovix`](https://github.com/IanOlave0/neurovix) — On-device facial asymmetry quantification for early stroke triage support (Python, MediaPipe, OpenCV, pytest). *Research prototype, not a medical device.*
 - [`agroscanner`](https://github.com/IanOlave0/agroscanner) — Offline-first Expo app for phytosanitary crop disease detection in Colima (TypeScript, Supabase). *On-device ML module (MobileNetV3) in progress.*
-- [`prospector`](https://github.com/IanOlave0/prospector) — Ingestion and ranking pipeline for project ideas (Python, pytest, ruff).
 
-## Formation
+## Education & Training
 
 - Supervised Machine Learning: Regression and Classification — DeepLearning.AI / Stanford (A. Ng), Coursera — Completed Oct 2026 — [Certificate](https://www.coursera.org/account/accomplishments/records/EUPQ0SN3OL8V)
 - Machine Learning Specialization — In progress (1/3 courses), 2026
