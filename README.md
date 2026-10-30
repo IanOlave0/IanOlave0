@@ -1,6 +1,6 @@
 # Ian Sebastián Olave Guzmán — Undergraduate Researcher, Systems Engineering
 
-TecNM Colima · 7th semester · Research focus: on-device ML, systems, scientific computing · Goal: Summer Research 2027 → OIST PhD track
+TecNM Colima · 7th semester · Research focus: on-device ML, systems, scientific computing · Goal: Summer Research 2027 →  PhD in machine learning applied to real-world problems
 
 ## Research interests
 
